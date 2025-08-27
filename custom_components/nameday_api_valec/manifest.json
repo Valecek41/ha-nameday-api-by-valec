@@ -1,0 +1,11 @@
+{
+  "domain": "nameday_api_valec",
+  "name": "Nameday API by Valec",
+  "version": "1.0.0",
+  "documentation": "https://github.com/xnekv03/nameday-api",
+  "requirements": ["requests", "pytz"],
+  "dependencies": [],
+  "codeowners": ["@Valecek41"], 
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
